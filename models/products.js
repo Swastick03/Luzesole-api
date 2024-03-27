@@ -20,8 +20,12 @@ const productSchema = new mongoose.Schema({
         type:String,
     },
     Available_colour: {
-        type:[String],
-    },
+        type: [String],
+        validate: {
+          validator: (v) => Array.isArray(v) && v.length > 0,
+          message: props => `${props.value} must be a non-empty array of colors`
+        }
+      },
     description:{
         type:String,
     },
