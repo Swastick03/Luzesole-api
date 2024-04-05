@@ -12,6 +12,12 @@ const productSchema = new mongoose.Schema({
         type:Number,
         default:4.2,
     },
+    reviews:{
+        type:Number,
+    },
+    stock:{
+        type:Number,
+    },
     price: {
         type: Number,
         required:[true,"price must be provided"],

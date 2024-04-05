@@ -5,6 +5,8 @@
     name: "DUVENTO M  LIFESTYLE SHOES",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 2649,
     colour: "",
     Available_colour: [
@@ -27,6 +29,8 @@
     name: "COURTBEAT COURT LIFESTYLE SHOES",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 4199,
     colour: "",
     Available_colour: [
@@ -49,6 +53,8 @@
     name: "GRAND COURT BASE LIFESTYLE COURT CASUAL SHOES",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 3959,
     colour: "",
     Available_colour: [
@@ -71,6 +77,8 @@
     name: "GALAXY 5 SHOES",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 2799,
     colour: "",
     Available_colour: [
@@ -93,6 +101,8 @@
     name: "ULTIMASHOW SHOES",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 3359,
     colour: "",
     Available_colour: [
@@ -115,6 +125,8 @@
     name: "FORUM 84 HIGH SHOES",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 7799,
     colour: "",
     Available_colour: [
@@ -137,6 +149,8 @@
     name: "PRIZMO M",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 1979,
     colour: "",
     Available_colour: [
@@ -159,6 +173,8 @@
     name: "RESILO M",
     brand:"adidas ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 3959,
     colour: "",
     Available_colour: [
@@ -181,6 +197,8 @@
     name: "Nike Dunk High Retro SE",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 11495,
     colour: "",
     Available_colour: [
@@ -203,6 +221,8 @@
     name: "Jumpman MVP",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 15295,
     colour: "",
     Available_colour: [
@@ -225,6 +245,8 @@
     name: "Nike Air Force 1 '07",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 9695,
     colour: "",
     Available_colour: [
@@ -247,6 +269,8 @@
     name: "Air Jordan 1 Mid",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 11495,
     colour: "",
     Available_colour: [
@@ -269,6 +293,8 @@
     name: "Air Jordan 1 Zoom CMFT 2",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 13295,
     colour: "",
     Available_colour: [
@@ -291,6 +317,8 @@
     name: "Air Jordan 1 Low",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 8995,
     colour: "",
     Available_colour: [
@@ -313,6 +341,8 @@
     name: "Nike Air Force 1 '07",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 9695,
     colour: "",
     Available_colour: [
@@ -335,6 +365,8 @@
     name: "Nike Dunk Low Retro Premium",
     brand:"nike ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 9695,
     colour: "",
     Available_colour: [
@@ -357,6 +389,8 @@
     name: "RS-X Geek Unisex Sneakers",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 5499,
     colour: "",
     Available_colour: [
@@ -379,6 +413,8 @@
     name: "Mercedes AMG Petronas F1",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 3499,
     colour: "",
     Available_colour: [
@@ -401,6 +437,8 @@
     name: "Stride Unisex Sneakers",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 3149,
     colour: "",
     Available_colour: [
@@ -423,6 +461,8 @@
     name: "Palermo OG Unisex Sneakers",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 7999,
     colour: "",
     Available_colour: [
@@ -445,6 +485,8 @@
     name: "PUMA Spike 22.1",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 11999,
     colour: "",
     Available_colour: [
@@ -467,6 +509,8 @@
     name: "X-Ray Speed Lite ",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 6999,
     colour: "",
     Available_colour: [
@@ -489,6 +533,8 @@
     name: "X-Ray Speed Lime",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 6999,
     colour: "",
     Available_colour: [
@@ -511,6 +557,8 @@
     name: "Clyde Base Unisex",
     brand:"puma ",
     rating:4.5,
+    reviews:23,
+    stock:26,
     price: 8999,
     colour: "",
     Available_colour: [
