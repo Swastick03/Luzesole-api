@@ -39,4 +39,26 @@ const getAllproductsTesting = async(req,res)=>{
     res.status(200).json({data});
 };
 
-module.exports = {getAllproducts,getAllproductsTesting}
+const addNewProduct = async(req,res)=>{
+    const data = await Product.create(req.body);
+    res.status(200).json({data});
+};
+
+const updateProduct = async(req,res)=>{
+    let data = await Product.findById(req.params.id);
+    data = await Product.findByIdAndUpdate(req.params.id,req.body,{new:true, useFindAndModify:false,runValidators:true});
+    res.status(200).json({data});
+}
+
+const deleteProduct = async(req,res)=>{
+    let data = await Product.findById(req.params.id);
+
+    if(!data){
+        return res.status(500).json({success:false,message:"Product Not Found"});
+    }
+    await Product.findByIdAndDelete(req.params.id);
+
+    res.status(200).json({success:true,message:"Product deleted successfully"});
+}
+
+module.exports = {getAllproducts,getAllproductsTesting,addNewProduct,updateProduct,deleteProduct}

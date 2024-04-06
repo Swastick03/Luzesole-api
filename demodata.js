@@ -3,7 +3,7 @@
 [{
     
     name: "DUVENTO M  LIFESTYLE SHOES",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -27,7 +27,7 @@
   {
     
     name: "COURTBEAT COURT LIFESTYLE SHOES",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -51,7 +51,7 @@
   {
     
     name: "GRAND COURT BASE LIFESTYLE COURT CASUAL SHOES",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -75,7 +75,7 @@
   {
     
     name: "GALAXY 5 SHOES",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -99,7 +99,7 @@
   {
     
     name: "ULTIMASHOW SHOES",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -123,7 +123,7 @@
   {
     
     name: "FORUM 84 HIGH SHOES",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -147,7 +147,7 @@
   {
     
     name: "PRIZMO M",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -171,7 +171,7 @@
   {
     
     name: "RESILO M",
-    brand:"adidas ",
+    brand:"adidas",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -195,7 +195,7 @@
   {
     
     name: "Nike Dunk High Retro SE",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -219,7 +219,7 @@
   {
     
     name: "Jumpman MVP",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -243,7 +243,7 @@
   {
     
     name: "Nike Air Force 1 '07",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -267,7 +267,7 @@
   {
     
     name: "Air Jordan 1 Mid",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -291,7 +291,7 @@
   {
     
     name: "Air Jordan 1 Zoom CMFT 2",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -315,7 +315,7 @@
   {
     
     name: "Air Jordan 1 Low",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -339,7 +339,7 @@
   {
     
     name: "Nike Air Force 1 '07",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -363,7 +363,7 @@
   {
     
     name: "Nike Dunk Low Retro Premium",
-    brand:"nike ",
+    brand:"nike",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -387,7 +387,7 @@
   {
     
     name: "RS-X Geek Unisex Sneakers",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -411,7 +411,7 @@
   {
     
     name: "Mercedes AMG Petronas F1",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -435,7 +435,7 @@
   {
     
     name: "Stride Unisex Sneakers",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -459,7 +459,7 @@
   {
     
     name: "Palermo OG Unisex Sneakers",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -483,7 +483,7 @@
   {
     
     name: "PUMA Spike 22.1",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -507,7 +507,7 @@
   {
     
     name: "X-Ray Speed Lite ",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -531,7 +531,7 @@
   {
     
     name: "X-Ray Speed Lime",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,
@@ -555,7 +555,7 @@
   {
     
     name: "Clyde Base Unisex",
-    brand:"puma ",
+    brand:"puma",
     rating:4.5,
     reviews:23,
     stock:26,

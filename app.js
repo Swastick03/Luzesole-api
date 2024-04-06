@@ -1,9 +1,13 @@
 const express =  require("express");
 const app = express();
+const bodyParser = require("body-parser");
 const connectDB = require("./db/connect");
 const cors = require('cors');
 
+app.use(bodyParser.urlencoded({extended:false}));
+app.use(express.json());
 app.use(cors());
+
 
 const PORT = process.env.PORT || 5000;
 
